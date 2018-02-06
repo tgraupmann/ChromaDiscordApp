@@ -6,6 +6,7 @@ Enable `Chroma` lighting in the `Discord App for Windows`
 
 * [See Also](#see-also)
 * [Releases](#releases)
+* [Dependencies](#dependencies)
 * [Quick Start](#quick-start)
 * [Overview](#overview)
 
