@@ -8,6 +8,7 @@ Enable `Chroma` lighting in the `Discord App for Windows`
 * [Releases](#releases)
 * [Dependencies](#dependencies)
 * [Quick Start](#quick-start)
+* [Discord Events](#discord-events)
 * [Overview](#overview)
 
 ## See Also
@@ -47,6 +48,52 @@ Enable `Chroma` lighting in the `Discord App for Windows`
 * Authorize `Chroma` to interact with `Discord` events.
 
 ![image_6](images/image_6.png)
+
+## Discord Events
+
+Chroma lighting animations will play for the following Discord events.
+
+** Waiting for authorization **
+
+![image_13](images/image_13.gif)
+
+<hr/>
+
+** Authorization successful **
+
+![image_14](images/image_14.gif)
+
+<hr/>
+
+** Waiting for messages **
+
+![image_15](images/image_15.gif)
+
+<hr/>
+
+** A message has arrived **
+
+![image_16](images/image_16.gif)
+
+<hr/>
+
+** Joined a voice channel **
+
+![image_17](images/image_17.gif)
+
+<hr/>
+
+** Left a voice channel **
+
+![image_18](images/image_18.gif)
+
+<hr/>
+
+** An error occurred **
+
+![image_19](images/image_19.gif)
+
+<hr/>
 
 ## Overview
 
