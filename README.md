@@ -2,9 +2,22 @@
 
 Enable `Chroma` lighting in the `Discord App for Windows`
 
+## Table of Contents
+
+* [See Also](#see-also)
+* [Releases](#releases)
+* [Quick Start](#quick-start)
+* [Overview](#overview)
+
+## See Also
+
+* [CChromaEditor](https://github.com/RazerOfficial/CChromaEditor) - Editor for editing Chroma animations
+
+* [ChromaTwitchExtension](https://github.com/tgraupmann/ChromaTwitchExtension) - Adds Chroma lighting to the Twitch streaming experience
+
 ## Releases
 
-* [Chroma Discord App (Unofficial) Installer](https://github.com/tgraupmann/ChromaDiscordApp/releases) for Windows
+* [Chroma Discord App (Unofficial) Installer](https://github.com/tgraupmann/ChromaDiscordApp/releases/tag/1.0) for Windows
 
 ## Dependencies
 
