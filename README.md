@@ -15,9 +15,11 @@ Enable `Chroma` lighting in the `Discord App for Windows`
 
 **Apps:**
 
-- [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Enable Chroma lighting in the Discord App for Windows
+- [ChromaClientForDiscord](https://github.com/tgraupmann/ChromaDiscordApp) - Add Chroma lighting to the Discord App events
 
-- [ChromaTwitchExtension](https://github.com/tgraupmann/ChromaTwitchExtension) - Adds Chroma lighting to the Twitch streaming experience
+- [ChromaClientForMixer](https://github.com/tgraupmann/ChromaClientForMixer) - Add Chroma lighting to the Mixer streaming experience
+
+- [ChromaClientForTwitch](https://github.com/tgraupmann/ChromaTwitchExtension) - Add Chroma lighting to the Twitch streaming experience
 
 **Plugins:**
 
