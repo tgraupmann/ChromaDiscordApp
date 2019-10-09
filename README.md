@@ -13,6 +13,10 @@ Enable `Chroma` lighting in the `Discord App for Windows`
 
 ## See Also
 
+**Docs:**
+
+- [Chroma Animation Guide](http://chroma.razer.com/ChromaGuide/) - Visual examples of the Chroma Animation API methods
+
 **Apps:**
 
 - [ChromaClientForDiscord](https://github.com/tgraupmann/ChromaDiscordApp) - Add Chroma lighting to the Discord App events
