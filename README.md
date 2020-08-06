@@ -21,8 +21,6 @@ Enable `Chroma` lighting in the `Discord App for Windows`
 
 - [ChromaClientForDiscord](https://github.com/tgraupmann/ChromaDiscordApp) - Add Chroma lighting to the Discord App events
 
-- [ChromaClientForMixer](https://github.com/tgraupmann/ChromaClientForMixer) - Add Chroma lighting to the Mixer streaming experience
-
 - [ChromaClientForTwitch](https://github.com/tgraupmann/ChromaTwitchExtension) - Add Chroma lighting to the Twitch streaming experience
 
 **Plugins:**
@@ -72,12 +70,6 @@ Enable `Chroma` lighting in the `Discord App for Windows`
 ## Discord Events
 
 Chroma lighting animations will play for the following Discord events.
-
-**Waiting for authorization**
-
-![image_13](images/image_13.gif)
-
-<hr/>
 
 **Authorization successful**
 
