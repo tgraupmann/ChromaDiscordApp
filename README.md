@@ -49,7 +49,7 @@ Enable `Chroma` lighting in the `Discord App for Windows`
 
 ## Quick Start
 
-* Install `Synpase`
+* Install `Synapse`
 
 * Install `ChromaSDK`
 
