@@ -27,7 +27,11 @@ Enable `Chroma` lighting in the `Discord App for Windows`
 
 - [CChromaEditor](https://github.com/RazerOfficial/CChromaEditor) - C++ native MFC library for playing and editing Chroma animations
 
+- [ClickTeamFusion_ChromaSDK](https://github.com/RazerOfficial/ClickTeamFusion_ChromaSDK) - Click Team Fusion Chroma SDK Extension for playing Chroma animations
+
 - [GameMakerChromaExtension](https://github.com/RazerOfficial/GameMakerChromaExtension) - GameMaker extension to control lighting for Razer Chroma
+
+- [Godot_ChromaSDK](https://github.com/RazerOfficial/Godot_ChromaSDK) - Godot native library for playing Chroma animations
 
 - [HTML5ChromaSDK](https://github.com/RazerOfficial/HTML5ChromaSDK) - JavaScript library for playing Chroma animations
 
@@ -41,17 +45,17 @@ Enable `Chroma` lighting in the `Discord App for Windows`
 
 ## Dependencies
 
-* [Razer Synapse](https://www.razerzone.com/synapse) - Control `Chroma` application priority
-
-* [Razer Chroma SDK](http://developer.razerzone.com/works-with-chroma/download/) - Allow applications to control `Chroma` lighting. The `ChromaSDK` is automatically installed by `Synapse` when a `Chroma` device is connected.
-
 * [Discord App for Windows](https://discordapp.com/) - The `Discord` client handles authentication
 
 ## Quick Start
 
-* Install `Synpase`
+* Install [Synapse](https://www.razer.com/synapse-3)
 
-* Install `ChromaSDK`
+* Make sure the Chroma Connect module is installed.
+
+![image_20](images/image_20.png)
+
+* If you don't have Chroma hardware, you can see Chroma effects with the [Chroma Emulator](https://github.com/razerofficial/ChromaEmulator)
 
 * Install and run `Discord App for Windows`
 
