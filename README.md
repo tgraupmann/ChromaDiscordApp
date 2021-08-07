@@ -155,4 +155,4 @@ Use the device `Reset` button to reset a `Chroma` animation back to the default 
 
 # Support
 
-Support is available on Discord, you can reach me at "Tim Graupmann#0611".
+Support is available on Discord, you can reach me at `Tim Graupmann#0611`.
