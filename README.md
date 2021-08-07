@@ -152,3 +152,7 @@ The animation editor will appear when editing a `Chroma` animation.
 Use the device `Reset` button to reset a `Chroma` animation back to the default for the selected `Discord` event.
 
 ![image_12](images/image_12.png)
+
+# Support
+
+Support is available on Discord, you can reach me at "Tim Graupmann#0611".
