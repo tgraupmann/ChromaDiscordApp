@@ -85,12 +85,6 @@ Chroma lighting animations will play for the following Discord events.
 
 <hr/>
 
-**Waiting for messages**
-
-![image_15](images/image_15.gif)
-
-<hr/>
-
 **A message has arrived**
 
 ![image_16](images/image_16.gif)
