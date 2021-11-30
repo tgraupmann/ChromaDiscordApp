@@ -71,6 +71,10 @@ Enable `Chroma` lighting in the `Discord App for Windows`
 
 ![image_6](images/image_6.png)
 
+* Your Discord status needs to be `online` in order to receive message events.
+
+![image_21](images/image_21.png)
+
 ## Discord Events
 
 Chroma lighting animations will play for the following Discord events.
