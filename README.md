@@ -133,29 +133,9 @@ When `Connect to Discord Events` is checked, `Chroma` animations will play when 
 
 ![image_9](images/image_9.png)
 
-Also when `Connect to Discord Events` is checked, the `Chroma` animations cannot be customized.
-
-![image_4](images/image_4.png)
-
-Uncheck `Connect to Discord Events` to customize `Chroma` animations.
-
-![image_10](images/image_10.png)
-
-Select a `Discord Notifications` event which will autoplay the selected animation on connected `Chroma` devices.
-
-![image_5](images/image_5.png)
-
-Select a `Chroma` device icon in order to customize the selected animation for that device.
-
-![image_3](images/image_3.png)
-
-The animation editor will appear when editing a `Chroma` animation.
+* The standalone [Chroma Animation Editor](https://github.com/razerofficial/CChromaEditor/releases/tag/1.0) can edit `Chroma Animations`.
 
 ![image_11](images/image_11.png)
-
-Use the device `Reset` button to reset a `Chroma` animation back to the default for the selected `Discord` event.
-
-![image_12](images/image_12.png)
 
 # Support
 
