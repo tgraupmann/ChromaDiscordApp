@@ -41,7 +41,7 @@ Enable `Chroma` lighting in the `Discord App for Windows`
 
 ## Releases
 
-* [Chroma Discord App (Unofficial) Installer](https://github.com/tgraupmann/ChromaDiscordApp/releases/tag/1.0) for Windows
+* [Chroma Discord App (Unofficial) Installer](https://github.com/tgraupmann/ChromaDiscordApp/releases) for Windows
 
 ## Dependencies
 
@@ -127,7 +127,7 @@ When `Connect to Discord Events` is checked, `Chroma` animations will play when 
 
 ![image_9](images/image_9.png)
 
-* The standalone [Chroma Animation Editor](https://github.com/razerofficial/CChromaEditor/releases/tag/1.0) can edit `Chroma Animations`.
+* The standalone [Chroma Animation Editor](https://github.com/razerofficial/CChromaEditor/releases) can edit `Chroma Animations`.
 
 ![image_11](images/image_11.png)
 
