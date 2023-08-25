@@ -133,4 +133,4 @@ When `Connect to Discord Events` is checked, `Chroma` animations will play when 
 
 # Support
 
-Support is available on Discord, you can reach me at `Tim Graupmann#0611`.
+Support is available on Discord, you can reach me at `tgraupmann`.
